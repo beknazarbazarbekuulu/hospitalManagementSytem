@@ -11,7 +11,7 @@ It enables pathology documents maintenance digitally.
 
 
 ## About This Repository:
-This is a javafx application that we built as our Database project in Level 2 Term 2 in CSE,BUET. 
+This is a javafx application that we built as our Database project in Level 2 Term 2 in BUET,CSE. 
 
 For database management , we used [Oracle DBMS](https://en.wikipedia.org/wiki/Oracle_Database).
 
